@@ -1,0 +1,17 @@
+{
+  "name": "sandshrew-sdk",
+  "version": "0.1.0",
+  "description": "sandshrew SDK provider classes",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "https://github.com/Oyl-Wallet/sandshrew-sdk",
+  "author": "flex",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "typescript": "^5.3.3"
+  }
+}
